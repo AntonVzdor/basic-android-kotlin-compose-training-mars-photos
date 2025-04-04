@@ -1,4 +1,4 @@
-Mars Photos
+ Mars Photos
 ==================================
 
 Mars Photos app is a demo app that shows actual images of Mars' surface. These images are
